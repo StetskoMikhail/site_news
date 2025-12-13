@@ -4,6 +4,5 @@
 - SQLite 
 ## Запуск проекта
 ```bash
-cd backend
 npm install
 npm run develop
