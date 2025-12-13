@@ -1,0 +1,14 @@
+# Frontend (excluded for now)
+frontend/
+
+# Node / Strapi
+node_modules/
+.env
+.env.*
+.cache/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
